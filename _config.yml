@@ -15,8 +15,8 @@ author :
   name : huangzhibo
   email : huangzhibo@genomics.cn
   github : huangzhibo
-#  twitter : username
-#  feedburner : feedname
+  twitter : false
+  feedburner : false
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -67,7 +67,7 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : /assets/themes/the-program
+  ASSET_PATH : /assets/themes/the-minimum
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
