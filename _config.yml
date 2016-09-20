@@ -3,15 +3,16 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-#highlighter: pygments
+highlighter: rouge
+#pygments
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 博客
+title : My Blog
 tagline: Site Tagline
 author :
-  name : 黄志博
+  name : huangzhibo
   email : huangzhibo@genomics.cn
   github : huangzhibo
 #  twitter : username
@@ -66,7 +67,8 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : false
+ # ASSET_PATH : false
+  ASSET_PATH : /assets
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
