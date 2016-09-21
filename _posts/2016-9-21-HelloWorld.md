@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Java
-tagline: ""
+tagline: "测试"
 tags : [test]
 ---
 {% include JB/setup %}
