@@ -1,7 +1,7 @@
 ---
 layout: post
 category : Java
-tagline: "Supporting tagline"
+tagline: ""
 tags : [test]
 ---
 {% include JB/setup %}
