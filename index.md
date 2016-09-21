@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-tagline: 
+tagline: "首页" 
 ---
 {% include JB/setup %}
 
